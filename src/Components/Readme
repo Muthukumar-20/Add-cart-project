@@ -1,0 +1,11 @@
+Project Title: Add-to-Cart Program
+
+Description:
+This project implements a simple add-to-cart functionality, allowing users to select items and add them to a virtual shopping cart.
+
+Features:
+
+Product Listing: Displays a list of available products with their names, descriptions, and prices.
+Add to Cart: Enables users to click on a "Add to Cart" button to add selected products to their cart.
+Cart Display: Shows the contents of the user's cart, including product names, quantities, and total prices.
+Checkout: Provides a checkout process where users can review their order, apply any discounts or coupons, and proceed to payment.
